@@ -2,9 +2,9 @@
 
 ## Sử dụng tệp đồ thị, thuật toán, tính toán Số lượng demands, tối ưu hóa mạng và tạo đồ hình backbone của mạng.
 
-### PHẦN 1: ĐẶC TẢ BÀI TOÁN (PROBLEM SPECIFICATION)
+### PHẦN 1: Bài toán
 
-#### 1. Tên bài toán
+#### 1.
 **Mô phỏng định tuyến và tối ưu hóa mạng trục (Backbone Network) AT&T.**
 
 #### 2. Đầu vào (Input)
